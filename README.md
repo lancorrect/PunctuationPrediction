@@ -10,7 +10,7 @@ Although our punctuation vocabulary is different from this [repo](https://github
 
 # How to train
 
-After `python train.py`, the finetuned model would be saved in `./models` and the loss curve would be saved in `./fig`.
+After `sh run.sh`, the finetuned model would be saved in `./models` and the loss curve would be saved in `./fig`.
 
 In `./models`,  it contains three kinds of model files, including train step checkpoints, epoch checkpoints and best model checkpoints.
 
