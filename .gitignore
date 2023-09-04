@@ -1,0 +1,13 @@
+.DS_Store
+**/.DS_Store
+.DS_Store?
+*/__pycache__*
+__pycache__
+models/
+onnx/
+fig/
+log/
+short_videos/
+cache_self/*
+cache_self
+punc_result/
